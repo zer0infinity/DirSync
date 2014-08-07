@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Dec 13 21:05:34 CET 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\MyFiles\\Coding\\Java\\workspace\\DirSync\\DirSync.jar
+manifest.mergeall=true
+manifest.mainclass=dirsync.DirSync
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|DirSync>~test/;<jar|junit.jar>;<jar|org.hamcrest.core_1.1.0.v20090501071000.jar>
+includes=
